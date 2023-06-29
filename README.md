@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Currently learning : <br> - Python <br>🎯 - Java<br>🎲 - Web Development</p>
+<p align="left">Currently learning : <br> - Python <br> - Java<br> - Web Development</p>
 
 ###
 
