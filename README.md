@@ -1,4 +1,6 @@
-<h2 align="left">About me</h2>
+# Welcome  <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/gifs/waving_hand.gif" alt="welcome" width="33" height="33" />
+
+<h2 align="left">About me</h2> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/gifs/waving_hand.gif" alt="welcome" width="33" height="33" />
 
 ###
 
@@ -21,6 +23,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
 </div>
 
+###
+
+<h2 align="left">Social & Contact</h2>
+coming soon...
 ###
 
 <h2 align="left">Github Stats</h2>
