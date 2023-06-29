@@ -5,10 +5,7 @@
 ###
 
 <p align="left">I'm Marvin, a first year Computer Science student at Sunway University, Malaysia.</p>
-
-###
-
-<p align="left">Currently learning : <br> - Python <br> - Java<br> - Web Development</p>
+<p align="left">Currently learning : Python, Java, Web Development</p>
 
 ###
 
