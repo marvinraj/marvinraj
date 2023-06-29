@@ -1,6 +1,6 @@
 # Welcome  <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/gifs/waving_hand.gif" alt="welcome" width="33" height="33" />
 
-<h2 align="left">About me</h2> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/gifs/waving_hand.gif" alt="welcome" width="33" height="33" />
+<h2 align="left">About me</h2>
 
 ###
 
