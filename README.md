@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">I'm Marvin, a first year Computer Science student at Sunway University, Malaysia.</p>
+<p align="left">I'm Marvin, a Computer Science student at Sunway University, Malaysia.</p>
 <p align="left"><i>Currently learning :</i> Python, Java, Web Development</p>
 
 ###
