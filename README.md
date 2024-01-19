@@ -44,6 +44,10 @@ coming soon...
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=marvinraj&theme=travelers-theme" alt="GitHub Streak" />
 </div>
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=marvinraj&label=Profile%20Views&color=4&icon=2&pretty=true" />
+</a>
+
 ###
 
 <!---
