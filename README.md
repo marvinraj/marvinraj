@@ -12,8 +12,8 @@ I also drink loads of coffee.
 - 🐦  [Blog posts (**Medium**)](https://medium.com/@marvinraj77/about)
 - 🏹  [The path of my life (**LinkedIn**)](https://www.linkedin.com/in/marvin-raj-372021206/)
 
-View my open source projects below 👇🏻
-Also, click "More..."
+View my open source projects below 👇🏻<br/>
+Also, click "More..." to view my Github Stats
 
 <details>
   <summary>More...</summary>
