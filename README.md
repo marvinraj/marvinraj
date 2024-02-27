@@ -1,4 +1,5 @@
-### `hello`
+### `hello, world
+`
 
 
 Hello, I'm **Marvin**
@@ -9,12 +10,11 @@ I also drink loads of coffee.
 
 
 - 💻  [Where's my GitHub? (**GitHub**, you're already here)](https://github.com/marvinraj)
-- 🐦  [Blog posts (**Medium**)](https://medium.com/@marvinraj77/about)
+- ✍️  [Blog posts (**Medium**)](https://medium.com/@marvinraj77/about)
 - 🏹  [The path of my life (**LinkedIn**)](https://www.linkedin.com/in/marvin-raj-372021206/)
 
-<br/>
 Also, click "More..." to view my Github Stats
-<br/>
+
 <details>
   <summary>More...</summary> <br/>
     <div align="center">
