@@ -18,4 +18,5 @@ Also, click "More..."
 <details>
   <summary>More...</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=marvinraj&show_icons=true&count_private=true&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marvinraj&theme=dark&hide_border=false" />
 </details>
