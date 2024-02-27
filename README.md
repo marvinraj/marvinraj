@@ -8,11 +8,12 @@ I build random projects for fun because why not?
 I also drink loads of coffee.
 
 
-- 💻  [Where's my GitHub? (**GitHub**, you're already here)](https://github.com/f)
-- 🐦  [Blog posts (**Mediumm**)](https://medium.com/@marvinraj77/about)
-- 🏹  [The path of my life (**LinkedIn**)](https://linkedin.com/in/fatihkadirakin)
+- 💻  [Where's my GitHub? (**GitHub**, you're already here)](https://github.com/marvinraj)
+- 🐦  [Blog posts (**Medium**)](https://medium.com/@marvinraj77/about)
+- 🏹  [The path of my life (**LinkedIn**)](https://www.linkedin.com/in/marvin-raj-372021206/)
 
 View my open source projects below 👇🏻
+Also, click "More..."
 
 <details>
   <summary>More...</summary>
