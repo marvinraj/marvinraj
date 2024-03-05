@@ -1,7 +1,7 @@
 ### `hello, world`
 
 
-Hello, I'm **Marvin**
+Hello, I'm **Marvin**,
 
 I'm a 2nd year Computer Science student currently diving into AI and Data Science. 
 I build random projects for fun because why not? 
