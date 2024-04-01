@@ -23,4 +23,4 @@ Also, click "More..." to view my Github Stats
     </div>
 </details>
 
-![](https://komarev.com/ghpvc/?username=marvinraj)
+![](https://komarev.com/ghpvc/?username=marvinraj&color=red&abbreviated=true)
