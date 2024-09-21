@@ -3,7 +3,7 @@
 
 Hello, I'm **Marvin**,
 
-I'm a 2nd year Computer Science student with a deep interest in web development, data science, artificial intelligence,
+I'm a 3rd year Computer Science student with a deep interest in web development, data science, artificial intelligence,
 and machine learning. 
 I build random projects, constantly experimenting, and learning along the way. 
 I also drink loads of coffee.
