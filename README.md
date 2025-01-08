@@ -1,12 +1,11 @@
 ### `hello, world`
 
 
-Hello, I'm **Marvin**,
+Hello, I'm **Marvin**, a 3rd year computer science student.
 
-I'm a 3rd year Computer Science student with a deep interest in web development, data science, artificial intelligence,
-and machine learning. 
-I build random projects, constantly experimenting, and learning along the way. 
-I also drink loads of coffee.
+I have deep interest in full-stack development and artificial intelligence.
+
+I build random projects, constantly experimenting, and learning along the way. I also drink loads of coffee.
 
 
 - 💻  [Where's my GitHub? (**GitHub**, you're already here)](https://github.com/marvinraj)
