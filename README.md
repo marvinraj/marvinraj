@@ -1,11 +1,14 @@
-### `hello, world`
+### `hello, world` 
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.gif" alt="👀" width="32" height="32">
+</picture>
 
 
 Hello, I'm **Marvin**, a 3rd year computer science student.
 
-I have deep interest in full-stack development and artificial intelligence.
-
-I build random projects, constantly experimenting, and learning along the way. I also drink loads of coffee.
+I have deep interest in full-stack development and artificial intelligence. I build random projects, constantly experimenting, 
+and learning along the way. I also drink loads of coffee.
 
 **Let's connect?**
 
